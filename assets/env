@@ -1,0 +1,6 @@
+API_KEY=AIzaSyCI6NrdObn37lxrQ6X9MpB749DIW8x5z78
+APP_ID=1:400016165338:android:77ce0a356099ea5cd658e3
+MESSAGING_SENDER_ID=400016165338
+PROJECT_ID=circle-bank-log-01
+DATABASE_URL=https://circle-bank-log-01-default-rtdb.europe-west1.firebasedatabase.app
+STORAGE_BUCKET=circle-bank-log-01.appspot.com
